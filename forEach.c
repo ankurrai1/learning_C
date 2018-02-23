@@ -8,9 +8,9 @@ struct node{
 };
 
 void set_int_value(struct node* node, int val){
-	int* i = malloc(sizeof (int));
-	*i = val;
-	node->data = i;
+	int* integer = malloc(sizeof (int));
+	*integer = val;
+	node->data = integer;
 }
 
 struct node* create_basic_list(){
