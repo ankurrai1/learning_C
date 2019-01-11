@@ -29,6 +29,6 @@ int main()
            printf("invalid grade entered");
             break;
     }
-    printf("\n\n you enterd grade %c ", grade);
+    printf("\n\nyou enterd grade %c ", grade);
     return 0;
 }
