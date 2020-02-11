@@ -2,3 +2,5 @@
 
 - Implimented Linked List concept
 - leap year finding
+- fibonacci numbers
+- factorial with loops and recurtion
