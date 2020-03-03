@@ -18,6 +18,7 @@ int main()
             
             printf("\n\n%c is a vowel.\n\n", ch);
             break;
+            
         default:
             
             printf("%c is not a vowel.\n\n", ch);
